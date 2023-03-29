@@ -2,7 +2,7 @@ body,
 html {
   width: 100%;
   height: 100%;
-  background: url(header.jpg) no-repeat center center fixed; 
+  background: url(background1.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -11,7 +11,7 @@ html {
 
 h1 {
   font-size: 3rem;
-  color: #e2dbdb;
+  color: #DFF9FF;
 }
 
 hr {
@@ -33,8 +33,8 @@ hr {
 }
 
 .btn-primary {  
-    background-color: #F05F44;  
-    border-color: #F05F44;
+    background-color: #ee4b08;  
+    border-color: #ee4b08;
     --bs-btn-hover-bg: #ee4b08; 
     --bs-btn-hover-border-color: #ee4b08;  
 }
